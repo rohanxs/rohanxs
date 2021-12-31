@@ -21,9 +21,9 @@ int main() {
     std::cout << "hello world!";
 }
 ```
+<br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width=150 height=150>
-<br>
 
 # Python
 I primarily use Python in development for building applications and software that work with external APIs or libraries. The bulk of the software I host on GitHub
