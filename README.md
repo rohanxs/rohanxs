@@ -13,14 +13,6 @@ My interests in programming range from low-level C code to high-level Python-bas
 Most of my C++ code is related to scientific/algorithmic computation. Though I don't often code at a systems level, I have some experience with the basics of
 operating systems and memory management in C, though not much of these are uploaded as repositories.
 
-Also happens to be my first (and my favorite) programming language.
-```cpp
-// the first program i ever wrote!
-#include <iostream>
-int main() {
-    std::cout << "hello world!";
-}
-```
 <br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width=150 height=150>
@@ -28,8 +20,8 @@ int main() {
 # Python
 I primarily use Python in development for building applications and software that work with external APIs or libraries. The bulk of the software I host on GitHub
 is coded in Python. I'm also interested in machine learning and neural networks, particularly with `keras` and `scipy`.
-<br>
 
+<br>
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width=150 height=150>
 
 # JavaScript
