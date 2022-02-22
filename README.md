@@ -31,4 +31,4 @@ I've primarily used JavaScript in my projects to makeup for Python's shortcoming
 <img align="left" src="https://www.harrisonpl.org/images/events/1521727838.png" height=150>
 
 # HTML/CSS
-HTML and CSS are used in my projects along side other languages to build a website or platform of some sort for the software I create. I also bulit my personal website with HTML/CSS, though my web development experience isn't as in depth as I'd like it to be.
+HTML and CSS are used in my projects along side other languages to build a website or platform of some sort for the software I create. I also built my personal website with HTML/CSS, though my web development experience isn't as in depth as I'd like it to be.
