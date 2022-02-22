@@ -1,5 +1,5 @@
 # Introduction
-Hello, I'm [@qyyvv](https://github.com/qyyvv), a 16 year old developer living in the United States.
+Hello, I'm [@rohanxs](https://github.com/rohanxs), a 16 year old developer living in the United States.
 
 My interests in programming range from low-level C code to high-level Python-based applications as well as web development with JavaScript. Hope to contribute to open source.
 
