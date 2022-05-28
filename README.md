@@ -3,10 +3,6 @@ Hello, I'm [@rohanxs](https://github.com/rohanxs), a 16 year old developer livin
 
 My interests in programming range from low-level C code to high-level Python-based applications as well as web development with JavaScript. Hope to contribute to open source.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxs&layout=compact&exclude_repo=chip">
-</p>
-
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width=150 height=168>
 
 # C/C++
