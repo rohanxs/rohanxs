@@ -20,7 +20,7 @@ is coded in Python. I'm also interested in machine learning and neural networks,
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width=150 height=150>
 
 # JavaScript
-I've primarily used JavaScript in my projects to makeup for Python's shortcomings in web development simultaneously with HTML and CSS. I've also built a few web applications and "bots" specifically with the `discord.js` API, and I hope to expand this knowledge to more advanced frameworks in the future.
+I've primarily used JavaScript in my projects to makeup for Python's shortcomings in web development simultaneously with HTML and CSS. I've also built a few web applications and web-embedded programs, and I hope to expand this knowledge to more advanced frameworks in the future.
 
 <br>
 
