@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-My interests in programming range from low-level C code to high-level Python-based applications as well as web development with JavaScript. Hope to contribute to open source.
+My interests in programming range from low-level C++ code to high-level Python-based applications as well as web development with JavaScript. Hope to contribute to open source.
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,html,css,ts,nodejs,haskell,latex,linux,vim,vscode,github,bots)](https://skillicons.dev)
 
