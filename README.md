@@ -9,7 +9,7 @@ My interests in programming range from low-level C++ code to high-level Python-b
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,html,css,ts,nodejs,haskell,latex,linux,vim,vscode,github,bots)](https://skillicons.dev)
 
-# ✨ Projects
+# ✨ Public Projects
 
 [**yahoostock**](https://pypi.org/project/yahoostock/) - A Python package designed to scrape data regarding the stock market. All data is scraped using the `requests.py` library and taken from the YahooFinance website.
 
