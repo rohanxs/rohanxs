@@ -1,5 +1,5 @@
 # 👋 Hey There!
-**I'm Rohan** - a 17 year old fullstack developer currently residing in the United States!
+**I'm Rohan** - a 18 year old fullstack developer currently residing in the United States!
 
 My interests in programming range from low-level C++ code to high-level Python-based applications as well as web development with JavaScript. Hope to contribute to open source.
 
